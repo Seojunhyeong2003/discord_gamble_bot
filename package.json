@@ -1,0 +1,19 @@
+{
+  "name": "rkawkeod_v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "djs-commander": "^0.0.50",
+    "dotenv": "^16.4.5"
+  }
+}
